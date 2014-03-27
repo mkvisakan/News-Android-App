@@ -38,7 +38,8 @@ How to compile the App
 ==================================
 Requirements:
 -----------------------
->1) Android Studio
+>1) Set up the ADT bundle with eclipse
+>>) http://developer.android.com/sdk/installing/bundle.html
 >2) Git installed (you can do the following stuff without git but I'm not going to show how).
 
 Download and install:
